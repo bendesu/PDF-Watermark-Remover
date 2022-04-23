@@ -1,3 +1,8 @@
+app_test/
+*.xcf
+test.py
+assets/repository-open-graph.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -14,7 +19,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
